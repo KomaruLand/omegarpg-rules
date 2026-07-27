@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "chat",
-      "title": "Игровой чат",
+      "title": "1. Игровой чат",
       "icon_path": "icons/chat.png",
       "rules": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "gameplay",
-      "title": "Игровой процесс",
+      "title": "2. Игровой процесс",
       "icon_path": "icons/gameplay.png",
       "rules": [
         {
