@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": "chat",
+      "title": "Игровой чат",
+      "icon_path": "icons/chat.png",
+      "rules": [
+        {
+          "id": "1.1",
+          "text": "Запрещен <red>спам</red> и флуд в глобальном чате.",
+          "punishment": "Мут от 30 минут до 2 часов"
+        },
+        {
+          "id": "1.2",
+          "text": "Оскорбление родственников строго <bold>запрещено</bold>.",
+          "punishment": null
+        }
+      ]
+    },
+    {
+      "id": "gameplay",
+      "title": "Игровой процесс",
+      "icon_path": "icons/gameplay.png",
+      "rules": [
+        {
+          "id": "2.1",
+          "text": "Использование стороннего ПО (читов) запрещено.",
+          "punishment": "Перманентный бан"
+        }
+      ]
+    }
+  ]
+}
