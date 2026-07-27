@@ -1,0 +1,2 @@
+# omega-rules
+Правила OmegaRPG
